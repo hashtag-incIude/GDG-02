@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GDG-02</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_thank_you">ThankYouActivity</string>
+    <string-array name="Year_of_Study">
+        <item>1st YEAR</item>
+        <item>2nd YEAR</item>
+        <item>3rd YEAR</item>
+        <item>4th YEAR</item>
+        <item>PROFESSIONAL</item>
+    </string-array>
+</resources>
